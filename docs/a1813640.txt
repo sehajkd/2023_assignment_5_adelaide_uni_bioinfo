@@ -10,3 +10,7 @@
 
 - Initial commit
 
+###Changed
+
+- [Fixed high severity issue #97](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/97)
+Removed 'XXXXXXX' insertions in Lines 5 and 15 from data/a1813640.txt
